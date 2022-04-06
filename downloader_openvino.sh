@@ -1,0 +1,2 @@
+python /usr/local/var/pyenv/versions/3.8.11/envs/facemodel/lib/python3.8/site-packages/open_model_zoo/model_tools/downloader.py --all --output_dir ./openvino_models &
+#python /usr/local/var/pyenv/versions/3.8.11/envs/facemodel/lib/python3.8/site-packages/open_model_zoo/model_tools/downloader.py --list models.lst --output_dir ./openvino_models
